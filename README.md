@@ -8,8 +8,8 @@ An iOS module built with .net iOS that uses **CoreML** and **Vision** frameworks
 
 - 📷 Accepts `UIImage` input
 - 🤖 Uses CoreML & Vision to run classification
-- 🏥 Detects health-related objects (depending on the trained model)
-- 🔄 Simple integration into Xamarin.iOS apps
+- 🏥 Accurately detects and classifies health-related images—such as X-rays, CT scans, MRIs reports and other diagnostic visuals—based on the scope. Provides advanced image analysis to assist in medical diagnostics depending on the model's specialization.
+- 🔄 Simple libarary integration into iOS Mobile apps
 - 🎞️ Includes basic UI animations (fade, scale, slide, rotate)
 
 ---
