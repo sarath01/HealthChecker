@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealthImageAnalyzer.iOS", "HealthImageAnalyzer.iOS.csproj", "{906E234D-DF5D-47AD-BE91-649044C5A987}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{906E234D-DF5D-47AD-BE91-649044C5A987}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{906E234D-DF5D-47AD-BE91-649044C5A987}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{906E234D-DF5D-47AD-BE91-649044C5A987}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{906E234D-DF5D-47AD-BE91-649044C5A987}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {341B5169-E2D8-4F3E-8DBC-70C5CA26A29C}
+	EndGlobalSection
+EndGlobal
